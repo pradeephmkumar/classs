@@ -1,3 +1,4 @@
 Hello
 password=xyzabc123
 apiKey=djdjjjjsnnwEg3g33g@djdjjjdk
+AWS_ACCESS_KEY=eatmynutswitch
